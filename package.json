@@ -1,0 +1,17 @@
+{
+  "name": "rokk3rlabs",
+  "version": "1.0.0",
+  "description": "search text",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "SVPrasadK",
+  "license": "ISC",
+  "dependencies": {
+    "angular-sanitize": "^1.7.0",
+    "async": "^2.6.0",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1"
+  }
+}
